@@ -81,10 +81,10 @@ namespace TeknikServis
 
         private void barButtonItem15_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            FrmCariler c = new FrmCariler();
+            //FrmCariler c = new FrmCariler();
            
-                c.MdiParent = this;
-                c.Show();
+            //    c.MdiParent = this;
+            //    c.Show();
             
             
         }
