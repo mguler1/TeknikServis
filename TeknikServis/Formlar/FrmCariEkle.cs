@@ -25,7 +25,7 @@ namespace TeknikServis.Formlar
                 TblCari c = new TblCari();
                 c.AD = txtCariAdi.Text;
                 c.SOYAD = txtSoyad.Text;
-                c.TELEFON = txtTelefon.Text;
+                c.TELEFON = txtTelefon.Text; 
                 c.MAIL = txtMail.Text;
                 c.IL = txtIl.Text;
                 c.ILCE = txtIlce.Text;
